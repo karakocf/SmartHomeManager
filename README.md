@@ -1,0 +1,2 @@
+# SmartHomeManager
+SmartHome
